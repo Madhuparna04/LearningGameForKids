@@ -8,4 +8,4 @@ containing answers to a set of hints provided.
 
 Note: The contents of flashcards and objects in the webGL Build may not
 appear, because the firebase database for the project is deleted.
-PLease use your own database with new content for the game.
+Please use your own database with new content for the game.
